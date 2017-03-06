@@ -427,3 +427,11 @@
 **Thoughts:** Today I was able to get the twitter button functioning to the extent that a twitter window pops up when you click the "tweet" button. I"m working out how to actually populate the tweet into the URL, so today I started working on a function that takes a string and converts it into a URL that twitter understands (basically adding "20%" where all spaces appear). I need to figure out how to shorten that to 140 characters, and then I also need to figure out how to use [JSON to update the href](http://stackoverflow.com/questions/1629285/how-to-use-jquery-click-event-to-change-href-value-asyncronously-based-on-a-jso) attribute on the click of the button. Sounds like a good project for tommorrow.
 
 **Link to work:** [Random Quote Generator](http://codepen.io/cellojane/pen/jBNXEZ)
+
+### Day 52(+10): March 5, 2017
+
+**Today's Progress**: Random Quote Generator Work
+
+**Thoughts:** Oof. I skipped two days in a row. I kinda needed to just knit, and organize knitting supplies, and knit some more, and organize some more. But Whatever. I thought a lot about code though. Tody I practiced using the console lop on my browser while reading this JavaScript book on GitHub that is explaining some basic concepts that I need to know. I've run into a wall with my code project, so what would be better than building a stronger foundation at this point? I learned a bunch of new built-in functions like "alert()", Number(), String(), toFixed()--this is my new favorite--attach it to a variable holding a number and set the parameter to the number of decimals you want to round to. SO I learned a lot today, and that's a win. 
+
+**Link to work:** [Random Quote Generator](http://codepen.io/cellojane/pen/jBNXEZ)
