@@ -443,3 +443,12 @@
 **Thoughts:** Crap. I'm hitting a wall. But I did do some learnin and set up Atom on my computer. Now I'm just trying to figure it out...
 
 **Link to work:** [Random Quote Generator](http://codepen.io/cellojane/pen/jBNXEZ)
+
+### Day 54(+11): March 8, 2017
+
+**Today's Progress**: You don't know JS
+
+**Thoughts:** Today I learned more about objects--and also accessing them using variables. Crazy. I need to get back into my projects, but I feel like I haven't had any down time. But maybe tomorrow!
+
+
+**Link to work:** [Random Quote Generator](http://codepen.io/cellojane/pen/jBNXEZ)
