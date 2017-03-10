@@ -452,3 +452,12 @@
 
 
 **Link to work:** [Random Quote Generator](http://codepen.io/cellojane/pen/jBNXEZ)
+
+### Day 55(+11): March 9, 2017
+
+**Today's Progress**: Watch and Code
+
+**Thoughts:** I did a bunch of watch and code tutorials. I didn't learn much new--except a deeper understanding of .splice, but I really like the teaching style of Gordon Zhu. I think it will be worth it. I also had an idea to learn a built-in function a day--and really learn it inside out. There's just so many out there that I feel limited by the fact that I only know a handful. So that would be an interesting pursuit. Looking forward to more tomorrow.
+
+
+**Link to work:** [Random Quote Generator](http://codepen.io/cellojane/pen/jBNXEZ)
