@@ -461,3 +461,12 @@
 
 
 **Link to work:** [Random Quote Generator](http://codepen.io/cellojane/pen/jBNXEZ)
+
+### Day 56(+11): March 10, 2017
+
+**Today's Progress**: Watch and Code, Quote Generator
+
+**Thoughts:** YAY I made my quote generator work! I think going back to Javascript basics really paid off. I had a better grasp of the variables I was using, and built new, simplified functions. So I basically cut out a bunch of useless functions and a bunch of useless variables and then things started making sense and actually working. So now I can do the design stuff and move on to the next project. I also did more Watch and Code tutorials too. Productive day.
+
+
+**Link to work:** [Random Quote Generator](http://codepen.io/cellojane/pen/jBNXEZ)
