@@ -470,3 +470,12 @@
 
 
 **Link to work:** [Random Quote Generator](http://codepen.io/cellojane/pen/jBNXEZ)
+
+### Day 57(+11): March 11, 2017
+
+**Today's Progress**: Quote Generator
+
+**Thoughts:** Back to CSS and Bootstrap basics today. I styled my quote generator a bit more. I want to fix a few bugs tomorrow; I want to mess with the margins a bit because the current jumbotron is quite large. Also, when you click the new quote button in mobile, I would like it to snap up to the top of the page again so you can read a new quote. I also want to add a few new quotes before the day's end.
+
+
+**Link to work:** [Random Quote Generator](http://codepen.io/cellojane/pen/jBNXEZ)
