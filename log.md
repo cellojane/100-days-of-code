@@ -479,3 +479,13 @@
 
 
 **Link to work:** [Random Quote Generator](http://codepen.io/cellojane/pen/jBNXEZ)
+
+### Day 58(+11): March 12, 2017
+
+**Today's Progress**: Quote Generator
+
+**Thoughts:** I figured out bootstrap columns. So that was a big win. Also, I successfully overrode some of the twitter button styles on the page. It still looks kinda ugly, but maybe tomrrow I'll fix that and do a few more tutorials.
+
+
+**Link to work:** [Random Quote Generator](http://codepen.io/cellojane/pen/jBNXEZ)
+
