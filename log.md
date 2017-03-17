@@ -489,3 +489,36 @@
 
 **Link to work:** [Random Quote Generator](http://codepen.io/cellojane/pen/jBNXEZ)
 
+### Day 59(+11): March 13, 2017
+
+**Today's Progress**: Quote Generator
+
+**Thoughts:** I am finally closing the cover on my quote generator! I got it looking good. The button styles actually match, it works great in mutliple screen sizes, and it just works. Huzzah!
+
+
+**Link to work:** [Random Quote Generator](http://codepen.io/cellojane/pen/jBNXEZ)
+
+### Day 60(+11): March 14, 2017
+
+**Today's Progress**: Watch and Code Objects
+
+**Thoughts:** Oh MY GAWD I finally understand what objects are. And methods. And annonymous functions. It all makes sense now. I should go back to some of my old projects and fix this stuff.
+
+
+**Link to work:** [Watch and Code](https://watchandcode.com/courses/enrolled/60264)
+
+### Day 61(+11): March 15, 2017
+
+**Today's Progress**: Watch and Code Booleans
+
+**Thoughts:** Today I did a bunch of Watch and Code tutorials. I finally got my weather code working after numerous error messages. I was missing a quote on a string. JSHint is my new favorite website. 
+
+**Link to work:** [Watch and Code](https://watchandcode.com/courses/enrolled/60264)
+
+### Day 62(+11): March 16, 2017
+
+**Today's Progress**: Tutorials
+
+**Thoughts:** I am still trying to build up my JS knowledge so I can actually make API calls. I did a watch and code tutorial that covered loops and if statements. I also got my weather code working. It really just as Gordon Zhu explained--a lot of the same code needed for the todo project can be applied to other projects. I also did a short tutorial on making API calls on codecademy. Tomorrow I'll tackle their tuturial on JQuery. I'm getting close; I feel like I understand more everyday. I just feel like my vocabulary is still lacking a bit.
+
+**Link to work:** [Watch and Code](https://watchandcode.com/courses/enrolled/60264)
