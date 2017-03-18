@@ -531,3 +531,10 @@
 
 **Link to work:** [Watch and Code](https://watchandcode.com/courses/enrolled/60264)
 
+### Day 64(+11): March 18, 2017
+
+**Today's Progress**: jQuery
+
+**Thoughts:** Today I added some jQuery to my quote generator to smooth out the loading of new text when the quote button is clicked. I also added a scroll to the top of the page if you click the button in mobile. It works great! Simple site, but I think the UX is more professional now. I also fell asleep pretty hard after watching like one watch and code tutorial. Must be fighting a bug or something...
+
+**Link to work:** [Random Quote Generator](http://codepen.io/cellojane/pen/jBNXEZ)
