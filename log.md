@@ -538,3 +538,19 @@
 **Thoughts:** Today I added some jQuery to my quote generator to smooth out the loading of new text when the quote button is clicked. I also added a scroll to the top of the page if you click the button in mobile. It works great! Simple site, but I think the UX is more professional now. I also fell asleep pretty hard after watching like one watch and code tutorial. Must be fighting a bug or something...
 
 **Link to work:** [Random Quote Generator](http://codepen.io/cellojane/pen/jBNXEZ)
+
+### Day 65(+11): March 19, 2017
+
+**Today's Progress**: jQuery
+
+I am trying to get an image of a website project to display when I hover over a photo in my personal page. I didn't really succeed--though I did get a border to appear on hover. I did find a solution where you put both images in a div and I'll try that out tomorrow.
+
+**Link to work:** [Portfolio](http://codepen.io/cellojane/pen/VPpJJM)
+
+### Day 66(+11): March 20, 2017
+
+**Today's Progress**: jQuery Flicker Madness!
+
+**Thoughts:** I fixed the image problem! It was crazy. At first I was getting this crazy flicker problem that was making my brain twitch a bit. Thanks to stack exchange I found a solution-but had to learn about absolute positioning a bit in CSS becuase the image was showing on hover in strange places. I also had to adjust the bootstrap div--which was contributing to the problem. But it works! It works! I found an image hosting site that i'm using as well, which is making all of this possible. 
+
+**Link to work:** [Portfolio](http://codepen.io/cellojane/pen/VPpJJM)
