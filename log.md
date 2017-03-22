@@ -554,3 +554,11 @@ I am trying to get an image of a website project to display when I hover over a 
 **Thoughts:** I fixed the image problem! It was crazy. At first I was getting this crazy flicker problem that was making my brain twitch a bit. Thanks to stack exchange I found a solution-but had to learn about absolute positioning a bit in CSS becuase the image was showing on hover in strange places. I also had to adjust the bootstrap div--which was contributing to the problem. But it works! It works! I found an image hosting site that i'm using as well, which is making all of this possible. 
 
 **Link to work:** [Portfolio](http://codepen.io/cellojane/pen/VPpJJM)
+
+### Day 67(+11): March 21, 2017
+
+**Today's Progress**: DEBUGGER
+
+**Thoughts:** Today I learned how to use the debugger! Amazing tool. Seriously the best, and it helps me understand how my code works--and I've "written" a lot of code I didn't fully understand. Looking forward to using this tool more often.
+
+**Link to work:** [Portfolio](http://codepen.io/cellojane/pen/VPpJJM)
