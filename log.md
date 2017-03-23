@@ -562,3 +562,11 @@ I am trying to get an image of a website project to display when I hover over a 
 **Thoughts:** Today I learned how to use the debugger! Amazing tool. Seriously the best, and it helps me understand how my code works--and I've "written" a lot of code I didn't fully understand. Looking forward to using this tool more often.
 
 **Link to work:** [Portfolio](http://codepen.io/cellojane/pen/VPpJJM)
+
+### Day 68(+11): March 21, 2017
+
+**Today's Progress**: More Watch and Code
+
+**Thoughts:** Today I watched more WC videos. I also followed a few developers on twitter who I am really excited about, and also learned what "URM" means--"under represented minority"--and how important they are to the developer community <3 
+
+**Link to work:** [Portfolio](http://codepen.io/cellojane/pen/VPpJJM)
