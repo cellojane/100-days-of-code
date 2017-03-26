@@ -578,3 +578,17 @@ I am trying to get an image of a website project to display when I hover over a 
 **Thoughts:** I tried to do some codewards, but no final solutions. It's also way past my bedtime, so I should just call it a night. HMM. At least I made an attempt to code today.
 
 **Link to work:** [Portfolio](http://codepen.io/cellojane/pen/VPpJJM)
+
+### Day 70(+11): March 24, 2017
+
+**Today's Progress**: Codew wars
+
+**Lots of refactoring today.
+
+**Link to work:** [Portfolio](http://codepen.io/cellojane/pen/VPpJJM)
+
+###Day 71(+11): Watch and Code and APIS?
+
+**Today's Progress was intererrupted by a lot of showings of the apartment. I'm struggling to find a good API tutorial. Maybe tomorrow.
+
+
