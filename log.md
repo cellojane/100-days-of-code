@@ -591,4 +591,11 @@ I am trying to get an image of a website project to display when I hover over a 
 
 **Today's Progress was intererrupted by a lot of showings of the apartment. I'm struggling to find a good API tutorial. Maybe tomorrow.
 
+### Day 72(+11): March 26, 2017
+
+**Today's Progress**: AJAX Udacity tutorial
+
+**Still trying to figure out API requests. Sigh.
+
+**Link to work:** [Portfolio](http://codepen.io/cellojane/pen/VPpJJM)
 
