@@ -599,3 +599,10 @@ I am trying to get an image of a website project to display when I hover over a 
 
 **Link to work:** [Portfolio](http://codepen.io/cellojane/pen/VPpJJM)
 
+### Day 73(+11): March 27, 2017
+
+**Today's Progress**: AJAX Udacity tutorial
+
+**Ditto. More AJAX. I am less excited by the Udacity tutorials. But I did explore some cool APIs today.
+
+**Link to work:** [Portfolio](http://codepen.io/cellojane/pen/VPpJJM)
