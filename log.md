@@ -606,3 +606,19 @@ I am trying to get an image of a website project to display when I hover over a 
 **Ditto. More AJAX. I am less excited by the Udacity tutorials. But I did explore some cool APIs today.
 
 **Link to work:** [Portfolio](http://codepen.io/cellojane/pen/VPpJJM)
+
+### Day 74(+11): March 28, 2017
+
+**Today's Progress**: Went back to watch and code
+
+**Learned some new built-in methods for modifying the DOM from a js file.
+
+**Link to work:** https://plnkr.co/edit/YJhEL6OwVAcftzk0lbfE?p=info
+
+### Day 75(+12): March 30, 2017
+
+**Today's Progress**: MVC
+
+**Today I leanred that we're basically using the MVC method with this weather app: Model, View and Control. The Todo list is the model/object, the view object modifies everything in view in the DOM, and the control object is the button/event handlers. Pretty sick!
+
+**Link to work:** https://plnkr.co/edit/YJhEL6OwVAcftzk0lbfE?p=info
