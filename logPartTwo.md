@@ -4,7 +4,7 @@
 
 **Today's Progress**: JS Tutorial on Codecademy, managed to make an infinite loop for the first time. Not sure how to fix it.
 
-**Thoughts:** I made it past day 80 in 100 days of code, and then I fell off the wagon. So I am getting back on the horse and coding for 30 days. It's gonna go fine. I am so confident right now. I just lost track for a bit. No reason not to finish this.
+**Thoughts:** I made it past day 80 in 100 days of code, and then I fell off the wagon. So I am getting back on the horse and coding for 30 days. It's gonna go fine. I am so confident right now. I just lost track for a bit. No reason not to finish this. I didn't realize it's been about a month since I've actually committed anything to Git...except for one day. I defintely have coded, but I haven't been here in a while. It's good to be back.
 
 **Link to work:** [Codecademy, 25% done!](https://www.codecademy.com/learn/javascript)
 
