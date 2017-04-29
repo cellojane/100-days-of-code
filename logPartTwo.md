@@ -8,13 +8,14 @@
 
 **Link to work:** [Codecademy, 25% done!](https://www.codecademy.com/learn/javascript)
 
-### Day 1: DATE
+### Day 1: April 28, 2017
 
-**Today's Progress**: 
+**Today's Progress**: JS Tutorials on Codecademy
 
-**Thoughts:** 
+**Thoughts:** Still having problems with the while loop. But I've enjoyed doing these tutorials as review. I need to get back on the watch and code train. I have a feeling tomorrow will be a lot of coding at home. I'm looking forward to it. Also I talked to Elyse. She's gonna help me with some networking, so I'm looking forward to that.
 
-**Link to work:** [Description](https://www.link)
+**Link to work:** [Codecademy, 37% done!](https://www.codecademy.com/learn/javascript)
+
 
 ### Day 2: DATE
 
