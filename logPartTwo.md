@@ -16,22 +16,21 @@
 
 **Link to work:** [Codecademy, 37% done!](https://www.codecademy.com/learn/javascript)
 
+### Day 2: April 29, 2017
 
-### Day 2: DATE
+**Today's Progress**: JS Tutorials on Codecademy
 
-**Today's Progress**: 
+**Thoughts:** Still killing it on review, and learning some new stuff to. 
 
-**Thoughts:** 
+**Link to work:** [Codecademy, 50% done!](https://www.codecademy.com/learn/javascript)
 
-**Link to work:** [Description](https://www.link)
+### Day 3: April 30, 2017
 
-### Day 3: DATE
+**Today's Progress**: JS Tutorials on Codecademy
 
-**Today's Progress**: 
+**Thoughts:** Still cranking along. I was pretty busy today, so I didn't do as much as I would've liked, but still did something! Time for a new week. Tomorrow is the Hack Reactor webinar, so that's exciting.
 
-**Thoughts:** 
-
-**Link to work:** [Description](https://www.link)
+**Link to work:** [Codecademy, 56% done! Feels like more](https://www.codecademy.com/learn/javascript)
 
 ### Day 4: DATE
 
