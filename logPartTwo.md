@@ -32,13 +32,13 @@
 
 **Link to work:** [Codecademy, 56% done! Feels like more](https://www.codecademy.com/learn/javascript)
 
-### Day 4: DATE
+### Day 4: May 1, 2017
 
-**Today's Progress**: 
+**Today's Progress**: Today I did more JS review, and also sat in on a webinar for Hack Reactor.
 
-**Thoughts:** 
+**Thoughts:** I am definitely going to apply. I just need to get my ducks in a row. I think if I don't get in this round or get a scholarship, I will apply for the October round and see what happens. But I would only do this in August if I get the scholarship. But definitely would do in October. I might actually do more application stuff before I go to bed tonight...
 
-**Link to work:** [Description](https://www.link)
+**Link to work:** [Codecademy, 68% done!](https://www.codecademy.com/learn/javascript)
 
 ### Day 5: DATE
 
