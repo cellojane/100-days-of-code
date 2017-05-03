@@ -40,13 +40,13 @@
 
 **Link to work:** [Codecademy, 68% done!](https://www.codecademy.com/learn/javascript)
 
-### Day 5: DATE
+### Day 5: May 2, 2017
 
-**Today's Progress**: 
+**Today's Progress**: JS in Codecademy
 
-**Thoughts:** 
+**Thoughts:** Today I learned a new method: for (var key in object) {} which basically cycles through each key of an object. I used it to log each key, and then I use it to create a search function. I can see how that might be helpful in JSON. I also did some work on my Hack Reactor Scholarship. I need to put together the application ASAP. I am super motivated in spite of all the other stuff I have going on in my life right now though. Also I think I'm obsessed with writing good documentation.
 
-**Link to work:** [Description](https://www.link)
+**Link to work:** [Codecademy, 75% done!](https://www.codecademy.com/learn/javascript)
 
 ### Day 6: DATE
 
