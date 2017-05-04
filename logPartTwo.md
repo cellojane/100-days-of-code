@@ -48,13 +48,13 @@
 
 **Link to work:** [Codecademy, 75% done!](https://www.codecademy.com/learn/javascript)
 
-### Day 6: DATE
+### Day 6: May 3, 2017
 
-**Today's Progress**: 
+**Today's Progress**: JS Objects in Codecademy
 
-**Thoughts:** 
+**Thoughts:** It looks like I made no progress, but actually I did quite a bit of object review. I struggled with the switch statment; I should review that more. But I did more practicing constructing objects using the constructor method rather than literal method where you just define the object all at once within the curly braces. Not sure what the benefits are, but it did help me understand this notation a bit better. For example, I've only ever used "this" within an object, but I didn't know you could define it outside and then have it apply to multiple objects when called upon. Pretty cool.
 
-**Link to work:** [Description](https://www.link)
+**Link to work:** [Codecademy, 75% done (but I'm halfway through objects)](https://www.codecademy.com/learn/javascript)
 
 ### Day 7: DATE
 
