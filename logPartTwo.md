@@ -56,13 +56,13 @@
 
 **Link to work:** [Codecademy, 75% done (but I'm halfway through objects)](https://www.codecademy.com/learn/javascript)
 
-### Day 7: DATE
+### Day 7: May 4, 2017
 
-**Today's Progress**: 
+**Today's Progress**: JS Object Oriented Programming  
 
-**Thoughts:** 
+**Thoughts:** More fun with objects! Learned some new stuff too, like how to easily construct a bunch of similar objects. And create methods. Probably two more days of this, and I will also be working on my Hack Reactor applications hardcore this weekend.
 
-**Link to work:** [Description](https://www.link)
+**Link to work:** [Codecademy, 81% done](https://www.codecademy.com/learn/javascript)
 
 ### Day 8: DATE
 
