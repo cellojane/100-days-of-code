@@ -64,13 +64,13 @@
 
 **Link to work:** [Codecademy, 81% done](https://www.codecademy.com/learn/javascript)
 
-### Day 8: DATE
+### Day 8: May 5, 2017
 
-**Today's Progress**: 
+**Today's Progress**: JS Object Oriented Programming
 
-**Thoughts:** 
+**Thoughts:** I am currently breaking my longest github streak! Yay!! Also I did more practice with objects today, and I specifically wrote a function that adds objects to an array. I didn't think of using array[array.length] = Object as a way to add new objects (or anything to the end of an array. I feel like array.push does the same thing... Anyways. New stuff, more tomorrow.
 
-**Link to work:** [Description](https://www.link)
+**Link to work:** [Codecademy, 87% done](https://www.codecademy.com/learn/javascript)
 
 ### Day 9: DATE
 
